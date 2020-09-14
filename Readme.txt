@@ -1,2 +1,2 @@
-# Incubateur-Projet-Paris-Kigali
+# 26-exigo
 Site web pour l'incubateur de projet "Paris-Kigali"
