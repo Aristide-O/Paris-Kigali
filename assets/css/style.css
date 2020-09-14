@@ -292,7 +292,7 @@ nav ul li {
 ===============================================================*/
 
 .home {
-    background: url(/Users/ariomega/Desktop/26-exigo/photo/kigaliCCsunset.jpg) no-repeat top center #141315;
+    background: url(../../photo/kigaliCCsunset.jpg) no-repeat top center #141315;
     background-size: cover;
     position: relative;
     padding-top: 80px;
@@ -528,7 +528,7 @@ nav ul li {
 ====================================================================*/
 
 .main_testimonial_area{
-    background: url(/Users/ariomega/Desktop/26-exigo/photo/chris-karidis-nnzkZNYWHaU-unsplash.jpg) no-repeat top center;
+    background: url(../..//photo/chris-karidis-nnzkZNYWHaU-unsplash.jpg) no-repeat top center;
     background-size:cover;
     position: relative;
 }
